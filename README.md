@@ -24,11 +24,9 @@ Ruby version: ````2.2.2````
 
 To get started, run ````bundle install```` followed by the three following rake setup commands:
 
-````be rake db:create
-
-be rake db:migrate
-
-be rake db:seed````
+````be rake db:create````
+````be rake db:migrate````
+````be rake db:seed````
 
 ##Using MiniBar
 
@@ -62,6 +60,10 @@ Integration with the [Braintree Sandbox](https://sandbox.braintreegateway.com/lo
 (Documentation upcoming)
 
 ### Running the Test Suite
+
+To run the full suite of tests, enter the following into command line.
+
+````be rspec spec````
 
 (Documentation upcoming)
 

@@ -10,6 +10,6 @@ deploy:
   provider: heroku
   api_key:
      secure: UT+dQ944OGXY/5j/D2FTOgUdGE3G+FZtLFfDa3GhxoGV2Io9B/lTz1etd1t9hZBCRpMo/sLKMyEmYnXvWt+L3j/yScZwaLYH1z6sw2FL/Ew5+vSXH/bsZ6BgVmU+3B41OlNi0qipdALSG5hIqlXv2pEvq7IJXC0joRa/cwrBpZrsl7+e78st1MnS+u7dgjxWZZpvZKEysAbk6tkOlDh7fdYOWg8EIFR5TKYOKh7nI96+vRSLsJtab3CHZKgQBTfxFCjKsLezBhrJVHJpEnwpYQRY31UTbTZCzlhNCAG0pLDwiYtcDiLJeZbtS7DY3sZJq8YuTyvHrWbNyDVW6nw7LMOvJioiuKEZmEPafDG0+oXnLuRoN49/o8/0AmqftRTk2v21d2qcGthA/ZtSI75Xy0BSg58fhzFK6Vxb/7+OuuGGeiZV8FDIwrtuy41o/ozgqMd3RRTUG9Y0VvZBjspK29K8Ie3Q1uR1lkRyFP08aQdH6g4V8qnTE6HaG8V3PtHmc++A4Zq/Qru1d8TV/kGpz2bnUGi5FlLVLfSNXIcTFp3qyuOE2ZZrAv/gXTknkIlAWdoehmx0hPZ9d+A1uio/IeIp3HnOmaGPuuBUGxXzck5jJu935NaDXgekrJwh5f0qs6B1hzK8LNnbJoDTzEz7bDJoCtV2juHl2uH+u55Rgw8=
-  app: miniBAR
+  app: minibar
   on:
     repo: dnestoff/miniBAR
